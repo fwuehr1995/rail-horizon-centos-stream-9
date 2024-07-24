@@ -1,2 +1,7 @@
-# rail-horizon-centos-stream-9
-Containerfile for https://github.com/DSD-DBS/rail-horizon-oss on cent-os-stream-9
+# ROS2 CS9 Image
+
+A CentOS Stream 9 linux container that installs ROS2 packages from its RHEl repositories.
+
+## License
+
+[MIT](./LICENSE)
