@@ -1,7 +1,7 @@
-# ROS2 CS9 Image
+# Rail Horizon on CentOS Stream 9
 
-A CentOS Stream 9 linux container that installs ROS2 packages from its RHEl repositories.
+A CentOS Stream 9 linux container that provides RailHorizon (see https://github.com/DSD-DBS/rail-horizon-oss)
 
 ## License
 
-[MIT](./LICENSE)
+[GPLv3]
